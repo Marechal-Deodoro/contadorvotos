@@ -2,7 +2,7 @@
 ## Requisitos
 1. .Net 3.1  
 2. Conexão com a internet  
-3. Chrome Driver na versão major do instalado na máquina que irá rodar. Download da versão compatível com o Chrome clique [aqui](https://chromedriver.chromium.org/downloads)  
+3. Chrome Driver na mesma versão major instalada na máquina que irá rodar os testes. Download da versão compatível com o Chrome clique [aqui](https://chromedriver.chromium.org/downloads)  
 
 ## Como Executar
 1. Colocar na pasta [TestadorContadorVotosZonaSecao\drivers]() o executável do Chrome Driver.  
