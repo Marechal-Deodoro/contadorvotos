@@ -15,6 +15,7 @@
 2. O teste completo dura aproximadamente 20 minutos.  
 3. O código fonte do teste está com os dados da cidade de Barreiras - BA. Caso queira fazer para outra cidade, necessário alterar o teste automatizado para obter os dados da localidade desejada.  
 4. Para ajudar na captura de elementos da página, a melhor opção é utilizar [XPath](https://www.w3schools.com/xml/xpath_intro.asp).  
+5. **Todas as informações utilizadas por este projeto são de domínio público.**  
 
 ###### Fontes/Referências/Agradecimentos/Outros
 1. [TSE](https://resultados.tse.jus.br/)  
